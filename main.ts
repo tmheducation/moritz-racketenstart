@@ -167,5 +167,4 @@ basic.forever(function () {
         # # # # #
         # . . # .
         `)
-    music.playMelody("C D C D C C C - ", 120)
 })
